@@ -1,0 +1,28 @@
+.mall-yuan{
+    width:1200px;
+    margin: 20px auto 0;
+    text-align: center;
+}
+.nall{
+    width:840px;
+    margin: 30px auto 20px;
+}
+.nall-title{
+    line-height: 26px;
+    letter-spacing: 4px;
+    font-size: 18px;
+    padding-left: 20px;
+    color: #fff;
+    background: #89674c;
+    
+}
+.nall-ul{
+    display: flex;
+    margin-top: -1px;
+    margin-bottom: 30px;
+    
+}
+.nall-ul li{
+    flex: 1;
+    text-align: center;
+}

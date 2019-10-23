@@ -1,0 +1,70 @@
+.index-header{
+    height: 60px;
+    width:100%;
+    background: #89674c;
+    color: #fff;
+    display: flex;
+} 
+.index-imgea img{
+    margin: 10px 0 0 80px;
+    width: 40px;
+}
+.nav{
+    display: flex;
+}
+.nav li{
+    cursor: pointer;
+    flex:1;
+    font-size: 16px;
+    text-align: center;
+}
+.nav li:hover{
+    background: #fff;
+}
+.nav .background{
+    background: #fff;
+    color: #333;
+}
+.nav .background a{
+   
+    color: #333;
+}
+.nav li:hover a{
+    color: #333;
+}
+.nav li a{
+    color: #fff;
+    line-height: 60px;
+}
+.xian{
+    display: inline-block;
+    width:2px;
+    background: #fff;
+    height: 14px;
+}
+.el-icon-search{
+    font-size: 20px;
+}
+.icon{
+    margin: 20px 0 0 200px;
+    overflow: hidden;
+}
+i{
+    cursor: pointer;
+}
+.input{
+    display: inline-block;
+    margin-top: -10px;
+    margin-left: 6px;
+    vertical-align:top;
+    height: 26px;
+    transition: .5s;
+    /* display: none; */
+    width: 0;
+    border: 0;
+} 
+.active{
+    display: inline-block;
+    width: 120px;
+ 
+}

@@ -1,0 +1,19 @@
+
+.product-img div{
+    width: 1200px;
+  margin: auto;
+    margin-top: 40px;
+    height: 100%;
+    text-align: center;
+}
+.product-p{
+    color:#89674c;
+    width: 700px;
+    text-align: center;
+    margin: 20px auto 0;
+    font-size: 16px;
+    letter-spacing: 4px;
+}
+.product-img .product-background{
+    width: 100%;
+}

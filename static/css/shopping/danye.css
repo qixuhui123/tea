@@ -1,0 +1,26 @@
+.danye{
+    margin: auto;
+    padding-top: 40px;
+    width: 1400px;
+    background: #f2f2f2;
+}
+.danye-ul{
+    padding-top: 10px;
+    width: 1100px;
+    display: flex;
+    background: #fff;
+    margin: auto;
+}
+.danye-ul li{
+    flex: 1;
+    text-align: center;
+}
+.danye-ul li:nth-child(1){
+    padding-top: 20px;
+}
+.danye-shop{
+    margin: 10px auto;
+}
+.danye-shop a:nth-child(1){
+    margin-left: -84px;
+}

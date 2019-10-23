@@ -1,0 +1,72 @@
+.login{
+    width: 1200px;
+    margin: 20px auto 0;
+}
+.login-title{
+    font-size: 18px;
+    width: 100%;
+    padding-bottom:6px;
+    border-bottom: 2px solid #89674c;
+}
+.login-ul{
+    /* margin-top: 20px; */
+    display: flex;
+
+}
+.login-ul li{
+    padding-top: 40px;
+    flex:1;
+}
+.login-ul li:nth-child(1){
+    border-right: 2px solid #89674c;
+}
+.login-ul h5{
+    margin: 0 0 20px 40px;
+    font-size: 16px;
+}
+.user{
+    margin: 0 0 20px 53px;  
+}
+.password{
+    margin: 0 0 20px 40px;  
+}
+input{
+    border: 1px solid #89674c;
+}
+.dong-tai{
+    display: inline-block;
+    background: #89674c;
+    color: #fff;
+    cursor: pointer;
+    line-height: 16px;
+    margin-left: 14px;
+}
+.login-iocn{
+    background: #89674c;
+    width: 40px;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #fff;
+    cursor: pointer;
+    line-height: 20px;
+    margin-left: 150px;
+}
+.members{
+    margin-left: 40px;
+    
+}
+.join-eat{
+    background: #89674c;
+    width: 120px;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #fff;
+    cursor: pointer;
+    line-height: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.join-imgea{
+    margin-top: 20px;
+    margin-left: 200px;
+}

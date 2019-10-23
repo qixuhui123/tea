@@ -1,0 +1,34 @@
+.index-banner{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 700px;
+    background-image: url('../../../src/assets/img/17.jpg') ;
+    background-position:0px -180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.index-banner i{
+    position: absolute;
+    bottom: 40px;
+    left: 48%;
+    color: #89674c;
+    z-index: 100;
+    font-size: 70px;
+    cursor: pointer;
+}
+.index-title{
+    width: 100%;
+    text-align: center;
+    color: #89764c;
+    font-size: 41px;
+    margin-top: 500px;
+    margin-bottom: 20px;
+}
+.index-text{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
+    line-height: 20px;
+}

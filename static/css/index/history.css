@@ -1,0 +1,31 @@
+.history{
+
+    width: 1200px;
+    margin: 80px auto 20px;
+}
+.footer-nav{
+    display: flex;
+}
+.footer-nav .footer-nav-dl{
+    flex: 1;
+}
+.footer-nav .footer-nav-dt{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.footer-nav .footer-nav-dd{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.photel{
+    text-align: right;
+}
+.txt{
+    margin-top: 8px;
+    margin-right: 20px;
+}
+.txt2{
+    font-size: 18px;
+    letter-spacing: 2px;
+}

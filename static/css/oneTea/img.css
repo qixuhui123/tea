@@ -1,0 +1,15 @@
+.one-tea{
+    width:100%;
+    height: 4200px;
+}
+.one-tea li{
+    width: 1200px;
+    margin: 60px auto 0;
+    text-align: center;
+}
+/* .one-tea .banner{
+    width: 100%;
+} */
+.one-tea .banner img{
+    width: 100%;
+}

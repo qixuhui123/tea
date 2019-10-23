@@ -1,0 +1,23 @@
+.cup-tea{
+    width: 100%;
+}
+.cup-img{
+    width:1200px;
+    margin: 60px auto 20px;
+    text-align: center;
+}
+.cup-tea .el-carousel__arrow{
+    top:40%;
+    background: none;
+}
+.cup-tea .el-carousel__arrow--left{
+    color:#89764c;
+    top: 40%;
+    font-size: 60px;
+    left:160px;
+}
+.cup-tea .el-carousel__arrow--right{
+    color:#89764c;
+    font-size: 60px;
+    right:160px;
+}
